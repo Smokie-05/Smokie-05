@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Smokie-05/Smokie-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ismaeel, an engineering student at Brunel University of London.
 
-Here are some ideas to get you started:
+I like working on projects that i find interesting and projects that make my life (and hopefully yours) a bit easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skill set consists of CAD design (mainly SolidWorks, with familiarity in Fusion360 and Shapr3D), hands on work, ie, rapid prototyping, tinkering, and 3D printing custom tools/equipment. 
+
+I have worked on a lot of cool projects but unfortunately only a few of them are public. 
+
+__Skills:__
+* 3D Modelling
+* Soldering
+* Rapid prototyping
+
+__Fun Facts:__
+My hobbies include: playing guitar, tinkering with things, photography, and gaming
