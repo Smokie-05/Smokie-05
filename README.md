@@ -14,4 +14,4 @@ __Skills:__
 * Rapid prototyping
 
 __Fun Facts:__
-My hobbies include: playing guitar, tinkering with things, photography, and gaming
+My hobbies include playing guitar, tinkering with things, photography, and gaming
